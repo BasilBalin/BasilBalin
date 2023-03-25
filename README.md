@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @BasilBalin.
-- 👀 I’m interested in Excel, VBA-coding, Jupyter Notebook and other data analytics tools.
+- 👀 I’m interested in Excel, VBA-coding, Python and other data analytics tools.
+<!---
 - 🌱 I’m currently learning Python for data analytics.
 - 💞️ I’m looking to collaborate on jet, why not!
+--->
 - 📫 How to reach me: vasily.balin@gmail.com.
 
 <!---
